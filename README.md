@@ -13,7 +13,7 @@ This repository contains two versions of the program with different approaches t
 - Focuses on controlling the total number of units purchased
 - May not properly handle the requirement of selecting "up to 10 items"
 
-### **Version 2: Different Items Limitation** (`Question1 FINAL.cpp`) - **CURRENT VERSION**
+### **Version 2: Different Items Limitation** (`Purchase System FINAL.cpp`) - **CURRENT VERSION**
 - **Limits selection to maximum 10 different items** (correct interpretation)
 - Each item can have unlimited quantities
 - _Example: User can select 3 different items with quantities 50, 20, and 100_
