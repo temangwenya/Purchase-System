@@ -62,6 +62,9 @@ This repository contains two versions of the program with different approaches t
 <img width="1500" height="1904" alt="Question1-FINAL " src="https://github.com/user-attachments/assets/8d70155a-2037-40e6-a141-a1ce2c230e7f" />
 *Allows 3 different items with large quantities, but limits to 10 different items maximum*
 
+### **School's Example Output:**
+<img width="807" height="817" alt="School Example" src="https://github.com/user-attachments/assets/7a1b5db7-910c-400f-99f5-7eecdd96f183" />
+
 ## 🎯 Learning Objectives
 This project demonstrates:
 - Object-oriented programming concepts using structures
